@@ -200,6 +200,12 @@ xhs签名方式分为两种：
 遇到签名问题，可尝试更新 "utils/stealth.min.js"文件
 https://github.com/requireCool/stealth.min.js
 
+为什么要使用 stealth.min.js， 可参考：
+
+- [Selenium真正绕过webdriver检测](https://benpaodewoniu.github.io/2021/04/22/python136/)
+- [Selenium 最强反反爬方案来了！](https://juejin.cn/post/7379864689201545255)
+- [利用stealth.min.js隐藏selenium特征 - Python](https://blog.csdn.net/w11231/article/details/124138215)
+
 24.4.10 大多数人小红书失败的原因在于你的cookie有问题，请参照你cookie是不是如我这样
 ![正确的cookie](media/xhs_error_cookie.png)
 
